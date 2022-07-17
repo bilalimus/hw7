@@ -1,5 +1,5 @@
 import Avatar from "./Avatar";
-
+import './UserInfo.css'
 
 const UserInfo = (props) => {
     return (
